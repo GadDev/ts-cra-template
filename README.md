@@ -1,3 +1,8 @@
+# Turn CRA to typescript project
+
+It creates 2 files react-app-env.d.ts in the src folder and one file tsconfig.json on the root folder which manage the Typescript configuration.
+
+`yarn add typescript @types/node @types/react @types/react-dom`
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
